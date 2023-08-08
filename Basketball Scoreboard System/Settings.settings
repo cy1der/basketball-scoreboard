@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Basketball_Scoreboard_System" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="HomeTeamName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">HOME</Value>
+    </Setting>
+    <Setting Name="AwayTeamName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">AWAY</Value>
+    </Setting>
+    <Setting Name="MainClockDefaultTime" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">600000</Value>
+    </Setting>
+    <Setting Name="ShotClockDefaultTime" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">24000</Value>
+    </Setting>
+    <Setting Name="ShotClockEnabled" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="BonusFoulThreshold" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
