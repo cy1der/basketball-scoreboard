@@ -60,4 +60,1143 @@
   <metadata name="ControlPanelMenuStrip.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="GameMenuSetPeriod.Size" type="System.Drawing.Size, System.Drawing">
+    <value>169, 22</value>
+  </data>
+  <data name="GameMenuSetPeriod.Text" xml:space="preserve">
+    <value>Set Period</value>
+  </data>
+  <data name="GameMenuSwitchPossession.Size" type="System.Drawing.Size, System.Drawing">
+    <value>169, 22</value>
+  </data>
+  <data name="GameMenuSwitchPossession.Text" xml:space="preserve">
+    <value>Switch Possession</value>
+  </data>
+  <data name="GameMenu.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 20</value>
+  </data>
+  <data name="GameMenu.Text" xml:space="preserve">
+    <value>Game</value>
+  </data>
+  <data name="TeamsMenuHomeChangeName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 22</value>
+  </data>
+  <data name="TeamsMenuHomeChangeName.Text" xml:space="preserve">
+    <value>Change Name</value>
+  </data>
+  <data name="TeamsMenuHomeSetFouls.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 22</value>
+  </data>
+  <data name="TeamsMenuHomeSetFouls.Text" xml:space="preserve">
+    <value>Set Fouls</value>
+  </data>
+  <data name="TeamsMenuHome.Size" type="System.Drawing.Size, System.Drawing">
+    <value>207, 22</value>
+  </data>
+  <data name="TeamsMenuHome.Text" xml:space="preserve">
+    <value>Home</value>
+  </data>
+  <data name="TeamsMenuAwayChangeName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 22</value>
+  </data>
+  <data name="TeamsMenuAwayChangeName.Text" xml:space="preserve">
+    <value>Change Name</value>
+  </data>
+  <data name="TeamsMenuAwaySetFouls.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 22</value>
+  </data>
+  <data name="TeamsMenuAwaySetFouls.Text" xml:space="preserve">
+    <value>Set Fouls</value>
+  </data>
+  <data name="TeamsMenuAway.Size" type="System.Drawing.Size, System.Drawing">
+    <value>207, 22</value>
+  </data>
+  <data name="TeamsMenuAway.Text" xml:space="preserve">
+    <value>Away</value>
+  </data>
+  <data name="SetBonusFoulThresholdMenuButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>207, 22</value>
+  </data>
+  <data name="SetBonusFoulThresholdMenuButton.Text" xml:space="preserve">
+    <value>Set Bonus Foul Threshold</value>
+  </data>
+  <data name="TeamsMenu.Size" type="System.Drawing.Size, System.Drawing">
+    <value>52, 20</value>
+  </data>
+  <data name="TeamsMenu.Text" xml:space="preserve">
+    <value>Teams</value>
+  </data>
+  <data name="MainClockMenuSetTime.Size" type="System.Drawing.Size, System.Drawing">
+    <value>160, 22</value>
+  </data>
+  <data name="MainClockMenuSetTime.Text" xml:space="preserve">
+    <value>Set Time</value>
+  </data>
+  <data name="MainClockMenuSetDefaultTime.Size" type="System.Drawing.Size, System.Drawing">
+    <value>160, 22</value>
+  </data>
+  <data name="MainClockMenuSetDefaultTime.Text" xml:space="preserve">
+    <value>Set Default Time</value>
+  </data>
+  <data name="MainClockMenu.Size" type="System.Drawing.Size, System.Drawing">
+    <value>79, 20</value>
+  </data>
+  <data name="MainClockMenu.Text" xml:space="preserve">
+    <value>Main Clock</value>
+  </data>
+  <data name="ShotClockMenuSetTime.Size" type="System.Drawing.Size, System.Drawing">
+    <value>169, 22</value>
+  </data>
+  <data name="ShotClockMenuSetTime.Text" xml:space="preserve">
+    <value>Set Time</value>
+  </data>
+  <data name="ShotClockMenuSetDefaultTime.Size" type="System.Drawing.Size, System.Drawing">
+    <value>169, 22</value>
+  </data>
+  <data name="ShotClockMenuSetDefaultTime.Text" xml:space="preserve">
+    <value>Set Default Time</value>
+  </data>
+  <data name="ShotClockMenuToggleShotClock.Size" type="System.Drawing.Size, System.Drawing">
+    <value>169, 22</value>
+  </data>
+  <data name="ShotClockMenuToggleShotClock.Text" xml:space="preserve">
+    <value>Toggle Shot Clock</value>
+  </data>
+  <data name="ShotClockMenu.Size" type="System.Drawing.Size, System.Drawing">
+    <value>76, 20</value>
+  </data>
+  <data name="ShotClockMenu.Text" xml:space="preserve">
+    <value>Shot Clock</value>
+  </data>
+  <data name="ControlPanelMenuStrip.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="ControlPanelMenuStrip.Size" type="System.Drawing.Size, System.Drawing">
+    <value>486, 24</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="ControlPanelMenuStrip.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="ControlPanelMenuStrip.Text" xml:space="preserve">
+    <value>Control Panel Menu</value>
+  </data>
+  <data name="&gt;&gt;ControlPanelMenuStrip.Name" xml:space="preserve">
+    <value>ControlPanelMenuStrip</value>
+  </data>
+  <data name="&gt;&gt;ControlPanelMenuStrip.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MenuStrip, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ControlPanelMenuStrip.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;ControlPanelMenuStrip.ZOrder" xml:space="preserve">
+    <value>30</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="ButtonStartClocks.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="ButtonStartClocks.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 14.25pt</value>
+  </data>
+  <data name="ButtonStartClocks.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 35</value>
+  </data>
+  <data name="ButtonStartClocks.Size" type="System.Drawing.Size, System.Drawing">
+    <value>128, 64</value>
+  </data>
+  <data name="ButtonStartClocks.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="ButtonStartClocks.Text" xml:space="preserve">
+    <value>Start Clocks</value>
+  </data>
+  <data name="&gt;&gt;ButtonStartClocks.Name" xml:space="preserve">
+    <value>ButtonStartClocks</value>
+  </data>
+  <data name="&gt;&gt;ButtonStartClocks.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ButtonStartClocks.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;ButtonStartClocks.ZOrder" xml:space="preserve">
+    <value>29</value>
+  </data>
+  <data name="ButtonStopClocks.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="ButtonStopClocks.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 14.25pt</value>
+  </data>
+  <data name="ButtonStopClocks.Location" type="System.Drawing.Point, System.Drawing">
+    <value>146, 35</value>
+  </data>
+  <data name="ButtonStopClocks.Size" type="System.Drawing.Size, System.Drawing">
+    <value>128, 64</value>
+  </data>
+  <data name="ButtonStopClocks.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="ButtonStopClocks.Text" xml:space="preserve">
+    <value>Stop Clocks</value>
+  </data>
+  <data name="&gt;&gt;ButtonStopClocks.Name" xml:space="preserve">
+    <value>ButtonStopClocks</value>
+  </data>
+  <data name="&gt;&gt;ButtonStopClocks.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ButtonStopClocks.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;ButtonStopClocks.ZOrder" xml:space="preserve">
+    <value>28</value>
+  </data>
+  <data name="ButtonSCSetToDefault.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="ButtonSCSetToDefault.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt</value>
+  </data>
+  <data name="ButtonSCSetToDefault.Location" type="System.Drawing.Point, System.Drawing">
+    <value>280, 35</value>
+  </data>
+  <data name="ButtonSCSetToDefault.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 64</value>
+  </data>
+  <data name="ButtonSCSetToDefault.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="ButtonSCSetToDefault.Text" xml:space="preserve">
+    <value>Shot Clock
+Set XXs</value>
+  </data>
+  <data name="&gt;&gt;ButtonSCSetToDefault.Name" xml:space="preserve">
+    <value>ButtonSCSetToDefault</value>
+  </data>
+  <data name="&gt;&gt;ButtonSCSetToDefault.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ButtonSCSetToDefault.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;ButtonSCSetToDefault.ZOrder" xml:space="preserve">
+    <value>27</value>
+  </data>
+  <data name="ButtonSCSet14S.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="ButtonSCSet14S.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt</value>
+  </data>
+  <data name="ButtonSCSet14S.Location" type="System.Drawing.Point, System.Drawing">
+    <value>382, 35</value>
+  </data>
+  <data name="ButtonSCSet14S.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 64</value>
+  </data>
+  <data name="ButtonSCSet14S.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="ButtonSCSet14S.Text" xml:space="preserve">
+    <value>Shot Clock
+Set 14s</value>
+  </data>
+  <data name="&gt;&gt;ButtonSCSet14S.Name" xml:space="preserve">
+    <value>ButtonSCSet14S</value>
+  </data>
+  <data name="&gt;&gt;ButtonSCSet14S.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ButtonSCSet14S.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;ButtonSCSet14S.ZOrder" xml:space="preserve">
+    <value>26</value>
+  </data>
+  <data name="LabelHomeTitle.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 27.75pt, style=Bold</value>
+  </data>
+  <data name="LabelHomeTitle.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 106</value>
+  </data>
+  <data name="LabelHomeTitle.Size" type="System.Drawing.Size, System.Drawing">
+    <value>227, 65</value>
+  </data>
+  <data name="LabelHomeTitle.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="LabelHomeTitle.Text" xml:space="preserve">
+    <value>Home</value>
+  </data>
+  <data name="LabelHomeTitle.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;LabelHomeTitle.Name" xml:space="preserve">
+    <value>LabelHomeTitle</value>
+  </data>
+  <data name="&gt;&gt;LabelHomeTitle.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LabelHomeTitle.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;LabelHomeTitle.ZOrder" xml:space="preserve">
+    <value>25</value>
+  </data>
+  <data name="LabelAwayTitle.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 27.75pt, style=Bold</value>
+  </data>
+  <data name="LabelAwayTitle.Location" type="System.Drawing.Point, System.Drawing">
+    <value>252, 106</value>
+  </data>
+  <data name="LabelAwayTitle.Size" type="System.Drawing.Size, System.Drawing">
+    <value>226, 65</value>
+  </data>
+  <data name="LabelAwayTitle.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="LabelAwayTitle.Text" xml:space="preserve">
+    <value>Away</value>
+  </data>
+  <data name="LabelAwayTitle.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;LabelAwayTitle.Name" xml:space="preserve">
+    <value>LabelAwayTitle</value>
+  </data>
+  <data name="&gt;&gt;LabelAwayTitle.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LabelAwayTitle.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;LabelAwayTitle.ZOrder" xml:space="preserve">
+    <value>24</value>
+  </data>
+  <data name="Line.Location" type="System.Drawing.Point, System.Drawing">
+    <value>245, 106</value>
+  </data>
+  <data name="Line.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1, 291</value>
+  </data>
+  <data name="Line.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;Line.Name" xml:space="preserve">
+    <value>Line</value>
+  </data>
+  <data name="&gt;&gt;Line.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Line.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Line.ZOrder" xml:space="preserve">
+    <value>23</value>
+  </data>
+  <data name="ButtonHomeScoreAdd1.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="ButtonHomeScoreAdd1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 14.25pt</value>
+  </data>
+  <data name="ButtonHomeScoreAdd1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>128, 174</value>
+  </data>
+  <data name="ButtonHomeScoreAdd1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 67</value>
+  </data>
+  <data name="ButtonHomeScoreAdd1.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="ButtonHomeScoreAdd1.Text" xml:space="preserve">
+    <value>+1</value>
+  </data>
+  <data name="&gt;&gt;ButtonHomeScoreAdd1.Name" xml:space="preserve">
+    <value>ButtonHomeScoreAdd1</value>
+  </data>
+  <data name="&gt;&gt;ButtonHomeScoreAdd1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ButtonHomeScoreAdd1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;ButtonHomeScoreAdd1.ZOrder" xml:space="preserve">
+    <value>22</value>
+  </data>
+  <data name="ButtonHomeScoreAdd2.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="ButtonHomeScoreAdd2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 14.25pt</value>
+  </data>
+  <data name="ButtonHomeScoreAdd2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>128, 244</value>
+  </data>
+  <data name="ButtonHomeScoreAdd2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 67</value>
+  </data>
+  <data name="ButtonHomeScoreAdd2.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="ButtonHomeScoreAdd2.Text" xml:space="preserve">
+    <value>+2</value>
+  </data>
+  <data name="&gt;&gt;ButtonHomeScoreAdd2.Name" xml:space="preserve">
+    <value>ButtonHomeScoreAdd2</value>
+  </data>
+  <data name="&gt;&gt;ButtonHomeScoreAdd2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ButtonHomeScoreAdd2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;ButtonHomeScoreAdd2.ZOrder" xml:space="preserve">
+    <value>21</value>
+  </data>
+  <data name="ButtonHomeScoreAdd3.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="ButtonHomeScoreAdd3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 14.25pt</value>
+  </data>
+  <data name="ButtonHomeScoreAdd3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>128, 314</value>
+  </data>
+  <data name="ButtonHomeScoreAdd3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 67</value>
+  </data>
+  <data name="ButtonHomeScoreAdd3.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="ButtonHomeScoreAdd3.Text" xml:space="preserve">
+    <value>+3</value>
+  </data>
+  <data name="&gt;&gt;ButtonHomeScoreAdd3.Name" xml:space="preserve">
+    <value>ButtonHomeScoreAdd3</value>
+  </data>
+  <data name="&gt;&gt;ButtonHomeScoreAdd3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ButtonHomeScoreAdd3.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;ButtonHomeScoreAdd3.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="ButtonHomeScoreSubtract1.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="ButtonHomeScoreSubtract1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 14.25pt</value>
+  </data>
+  <data name="ButtonHomeScoreSubtract1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>58, 174</value>
+  </data>
+  <data name="ButtonHomeScoreSubtract1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 67</value>
+  </data>
+  <data name="ButtonHomeScoreSubtract1.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="ButtonHomeScoreSubtract1.Text" xml:space="preserve">
+    <value>-1</value>
+  </data>
+  <data name="&gt;&gt;ButtonHomeScoreSubtract1.Name" xml:space="preserve">
+    <value>ButtonHomeScoreSubtract1</value>
+  </data>
+  <data name="&gt;&gt;ButtonHomeScoreSubtract1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ButtonHomeScoreSubtract1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;ButtonHomeScoreSubtract1.ZOrder" xml:space="preserve">
+    <value>19</value>
+  </data>
+  <data name="ButtonHomeScoreSubtract2.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="ButtonHomeScoreSubtract2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 14.25pt</value>
+  </data>
+  <data name="ButtonHomeScoreSubtract2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>58, 244</value>
+  </data>
+  <data name="ButtonHomeScoreSubtract2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 67</value>
+  </data>
+  <data name="ButtonHomeScoreSubtract2.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="ButtonHomeScoreSubtract2.Text" xml:space="preserve">
+    <value>-2</value>
+  </data>
+  <data name="&gt;&gt;ButtonHomeScoreSubtract2.Name" xml:space="preserve">
+    <value>ButtonHomeScoreSubtract2</value>
+  </data>
+  <data name="&gt;&gt;ButtonHomeScoreSubtract2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ButtonHomeScoreSubtract2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;ButtonHomeScoreSubtract2.ZOrder" xml:space="preserve">
+    <value>17</value>
+  </data>
+  <data name="ButtonHomeScoreSubtract3.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="ButtonHomeScoreSubtract3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 14.25pt</value>
+  </data>
+  <data name="ButtonHomeScoreSubtract3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>58, 314</value>
+  </data>
+  <data name="ButtonHomeScoreSubtract3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 67</value>
+  </data>
+  <data name="ButtonHomeScoreSubtract3.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="ButtonHomeScoreSubtract3.Text" xml:space="preserve">
+    <value>-3</value>
+  </data>
+  <data name="&gt;&gt;ButtonHomeScoreSubtract3.Name" xml:space="preserve">
+    <value>ButtonHomeScoreSubtract3</value>
+  </data>
+  <data name="&gt;&gt;ButtonHomeScoreSubtract3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ButtonHomeScoreSubtract3.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;ButtonHomeScoreSubtract3.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="ButtonAwayScoreAdd1.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="ButtonAwayScoreAdd1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 14.25pt</value>
+  </data>
+  <data name="ButtonAwayScoreAdd1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>368, 174</value>
+  </data>
+  <data name="ButtonAwayScoreAdd1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 67</value>
+  </data>
+  <data name="ButtonAwayScoreAdd1.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="ButtonAwayScoreAdd1.Text" xml:space="preserve">
+    <value>+1</value>
+  </data>
+  <data name="&gt;&gt;ButtonAwayScoreAdd1.Name" xml:space="preserve">
+    <value>ButtonAwayScoreAdd1</value>
+  </data>
+  <data name="&gt;&gt;ButtonAwayScoreAdd1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ButtonAwayScoreAdd1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;ButtonAwayScoreAdd1.ZOrder" xml:space="preserve">
+    <value>20</value>
+  </data>
+  <data name="ButtonAwayScoreAdd2.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="ButtonAwayScoreAdd2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 14.25pt</value>
+  </data>
+  <data name="ButtonAwayScoreAdd2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>368, 244</value>
+  </data>
+  <data name="ButtonAwayScoreAdd2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 67</value>
+  </data>
+  <data name="ButtonAwayScoreAdd2.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="ButtonAwayScoreAdd2.Text" xml:space="preserve">
+    <value>+2</value>
+  </data>
+  <data name="&gt;&gt;ButtonAwayScoreAdd2.Name" xml:space="preserve">
+    <value>ButtonAwayScoreAdd2</value>
+  </data>
+  <data name="&gt;&gt;ButtonAwayScoreAdd2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ButtonAwayScoreAdd2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;ButtonAwayScoreAdd2.ZOrder" xml:space="preserve">
+    <value>18</value>
+  </data>
+  <data name="ButtonAwayScoreSubtract1.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="ButtonAwayScoreSubtract1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 14.25pt</value>
+  </data>
+  <data name="ButtonAwayScoreSubtract1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>298, 174</value>
+  </data>
+  <data name="ButtonAwayScoreSubtract1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 67</value>
+  </data>
+  <data name="ButtonAwayScoreSubtract1.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="ButtonAwayScoreSubtract1.Text" xml:space="preserve">
+    <value>-1</value>
+  </data>
+  <data name="&gt;&gt;ButtonAwayScoreSubtract1.Name" xml:space="preserve">
+    <value>ButtonAwayScoreSubtract1</value>
+  </data>
+  <data name="&gt;&gt;ButtonAwayScoreSubtract1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ButtonAwayScoreSubtract1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;ButtonAwayScoreSubtract1.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <data name="ButtonAwayScoreSubtract2.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="ButtonAwayScoreSubtract2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 14.25pt</value>
+  </data>
+  <data name="ButtonAwayScoreSubtract2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>298, 244</value>
+  </data>
+  <data name="ButtonAwayScoreSubtract2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 67</value>
+  </data>
+  <data name="ButtonAwayScoreSubtract2.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="ButtonAwayScoreSubtract2.Text" xml:space="preserve">
+    <value>-2</value>
+  </data>
+  <data name="&gt;&gt;ButtonAwayScoreSubtract2.Name" xml:space="preserve">
+    <value>ButtonAwayScoreSubtract2</value>
+  </data>
+  <data name="&gt;&gt;ButtonAwayScoreSubtract2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ButtonAwayScoreSubtract2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;ButtonAwayScoreSubtract2.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="ButtonAwayScoreAdd3.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="ButtonAwayScoreAdd3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 14.25pt</value>
+  </data>
+  <data name="ButtonAwayScoreAdd3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>368, 314</value>
+  </data>
+  <data name="ButtonAwayScoreAdd3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 67</value>
+  </data>
+  <data name="ButtonAwayScoreAdd3.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="ButtonAwayScoreAdd3.Text" xml:space="preserve">
+    <value>+3</value>
+  </data>
+  <data name="&gt;&gt;ButtonAwayScoreAdd3.Name" xml:space="preserve">
+    <value>ButtonAwayScoreAdd3</value>
+  </data>
+  <data name="&gt;&gt;ButtonAwayScoreAdd3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ButtonAwayScoreAdd3.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;ButtonAwayScoreAdd3.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="ButtonAwayScoreSubtract3.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="ButtonAwayScoreSubtract3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 14.25pt</value>
+  </data>
+  <data name="ButtonAwayScoreSubtract3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>298, 314</value>
+  </data>
+  <data name="ButtonAwayScoreSubtract3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 67</value>
+  </data>
+  <data name="ButtonAwayScoreSubtract3.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="ButtonAwayScoreSubtract3.Text" xml:space="preserve">
+    <value>-3</value>
+  </data>
+  <data name="&gt;&gt;ButtonAwayScoreSubtract3.Name" xml:space="preserve">
+    <value>ButtonAwayScoreSubtract3</value>
+  </data>
+  <data name="&gt;&gt;ButtonAwayScoreSubtract3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ButtonAwayScoreSubtract3.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;ButtonAwayScoreSubtract3.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="LabelClock.Location" type="System.Drawing.Point, System.Drawing">
+    <value>212, 400</value>
+  </data>
+  <data name="LabelClock.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 23</value>
+  </data>
+  <data name="LabelClock.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="LabelClock.Text" xml:space="preserve">
+    <value>--:--</value>
+  </data>
+  <data name="LabelClock.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;LabelClock.Name" xml:space="preserve">
+    <value>LabelClock</value>
+  </data>
+  <data name="&gt;&gt;LabelClock.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LabelClock.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;LabelClock.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="LabelShotClock.Location" type="System.Drawing.Point, System.Drawing">
+    <value>229, 425</value>
+  </data>
+  <data name="LabelShotClock.Size" type="System.Drawing.Size, System.Drawing">
+    <value>33, 23</value>
+  </data>
+  <data name="LabelShotClock.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="LabelShotClock.Text" xml:space="preserve">
+    <value>--</value>
+  </data>
+  <data name="LabelShotClock.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;LabelShotClock.Name" xml:space="preserve">
+    <value>LabelShotClock</value>
+  </data>
+  <data name="&gt;&gt;LabelShotClock.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LabelShotClock.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;LabelShotClock.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="LabelPeriod.Location" type="System.Drawing.Point, System.Drawing">
+    <value>229, 448</value>
+  </data>
+  <data name="LabelPeriod.Size" type="System.Drawing.Size, System.Drawing">
+    <value>33, 23</value>
+  </data>
+  <data name="LabelPeriod.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="LabelPeriod.Text" xml:space="preserve">
+    <value>-</value>
+  </data>
+  <data name="LabelPeriod.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;LabelPeriod.Name" xml:space="preserve">
+    <value>LabelPeriod</value>
+  </data>
+  <data name="&gt;&gt;LabelPeriod.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LabelPeriod.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;LabelPeriod.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="LabelAwayPossession.Location" type="System.Drawing.Point, System.Drawing">
+    <value>268, 448</value>
+  </data>
+  <data name="LabelAwayPossession.Size" type="System.Drawing.Size, System.Drawing">
+    <value>33, 23</value>
+  </data>
+  <data name="LabelAwayPossession.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="LabelAwayPossession.Text" xml:space="preserve">
+    <value>&gt;</value>
+  </data>
+  <data name="LabelAwayPossession.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="LabelAwayPossession.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;LabelAwayPossession.Name" xml:space="preserve">
+    <value>LabelAwayPossession</value>
+  </data>
+  <data name="&gt;&gt;LabelAwayPossession.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LabelAwayPossession.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;LabelAwayPossession.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="LabelHomePossession.Location" type="System.Drawing.Point, System.Drawing">
+    <value>190, 448</value>
+  </data>
+  <data name="LabelHomePossession.Size" type="System.Drawing.Size, System.Drawing">
+    <value>33, 23</value>
+  </data>
+  <data name="LabelHomePossession.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="LabelHomePossession.Text" xml:space="preserve">
+    <value>&lt;</value>
+  </data>
+  <data name="LabelHomePossession.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;LabelHomePossession.Name" xml:space="preserve">
+    <value>LabelHomePossession</value>
+  </data>
+  <data name="&gt;&gt;LabelHomePossession.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LabelHomePossession.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;LabelHomePossession.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="LabelAwayBonus.Location" type="System.Drawing.Point, System.Drawing">
+    <value>268, 425</value>
+  </data>
+  <data name="LabelAwayBonus.Size" type="System.Drawing.Size, System.Drawing">
+    <value>33, 23</value>
+  </data>
+  <data name="LabelAwayBonus.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="LabelAwayBonus.Text" xml:space="preserve">
+    <value>B</value>
+  </data>
+  <data name="LabelAwayBonus.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="LabelAwayBonus.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;LabelAwayBonus.Name" xml:space="preserve">
+    <value>LabelAwayBonus</value>
+  </data>
+  <data name="&gt;&gt;LabelAwayBonus.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LabelAwayBonus.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;LabelAwayBonus.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="LabelHomeBonus.Location" type="System.Drawing.Point, System.Drawing">
+    <value>190, 425</value>
+  </data>
+  <data name="LabelHomeBonus.Size" type="System.Drawing.Size, System.Drawing">
+    <value>33, 23</value>
+  </data>
+  <data name="LabelHomeBonus.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="LabelHomeBonus.Text" xml:space="preserve">
+    <value>B</value>
+  </data>
+  <data name="LabelHomeBonus.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="LabelHomeBonus.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;LabelHomeBonus.Name" xml:space="preserve">
+    <value>LabelHomeBonus</value>
+  </data>
+  <data name="&gt;&gt;LabelHomeBonus.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LabelHomeBonus.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;LabelHomeBonus.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="LabelAwayFouls.Location" type="System.Drawing.Point, System.Drawing">
+    <value>307, 448</value>
+  </data>
+  <data name="LabelAwayFouls.Size" type="System.Drawing.Size, System.Drawing">
+    <value>33, 23</value>
+  </data>
+  <data name="LabelAwayFouls.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="LabelAwayFouls.Text" xml:space="preserve">
+    <value>-</value>
+  </data>
+  <data name="LabelAwayFouls.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;LabelAwayFouls.Name" xml:space="preserve">
+    <value>LabelAwayFouls</value>
+  </data>
+  <data name="&gt;&gt;LabelAwayFouls.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LabelAwayFouls.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;LabelAwayFouls.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="LabelAwayScore.Location" type="System.Drawing.Point, System.Drawing">
+    <value>307, 425</value>
+  </data>
+  <data name="LabelAwayScore.Size" type="System.Drawing.Size, System.Drawing">
+    <value>33, 23</value>
+  </data>
+  <data name="LabelAwayScore.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="LabelAwayScore.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="LabelAwayScore.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;LabelAwayScore.Name" xml:space="preserve">
+    <value>LabelAwayScore</value>
+  </data>
+  <data name="&gt;&gt;LabelAwayScore.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LabelAwayScore.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;LabelAwayScore.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="LabelHomeFouls.Location" type="System.Drawing.Point, System.Drawing">
+    <value>151, 448</value>
+  </data>
+  <data name="LabelHomeFouls.Size" type="System.Drawing.Size, System.Drawing">
+    <value>33, 23</value>
+  </data>
+  <data name="LabelHomeFouls.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="LabelHomeFouls.Text" xml:space="preserve">
+    <value>-</value>
+  </data>
+  <data name="LabelHomeFouls.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;LabelHomeFouls.Name" xml:space="preserve">
+    <value>LabelHomeFouls</value>
+  </data>
+  <data name="&gt;&gt;LabelHomeFouls.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LabelHomeFouls.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;LabelHomeFouls.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="LabelHomeScore.Location" type="System.Drawing.Point, System.Drawing">
+    <value>151, 425</value>
+  </data>
+  <data name="LabelHomeScore.Size" type="System.Drawing.Size, System.Drawing">
+    <value>33, 23</value>
+  </data>
+  <data name="LabelHomeScore.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="LabelHomeScore.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="LabelHomeScore.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;LabelHomeScore.Name" xml:space="preserve">
+    <value>LabelHomeScore</value>
+  </data>
+  <data name="&gt;&gt;LabelHomeScore.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LabelHomeScore.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;LabelHomeScore.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>7, 15</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>490, 483</value>
+  </data>
+  <data name="$this.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>506, 522</value>
+  </data>
+  <data name="$this.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>506, 522</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Control Panel</value>
+  </data>
+  <data name="&gt;&gt;GameMenu.Name" xml:space="preserve">
+    <value>GameMenu</value>
+  </data>
+  <data name="&gt;&gt;GameMenu.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;GameMenuSetPeriod.Name" xml:space="preserve">
+    <value>GameMenuSetPeriod</value>
+  </data>
+  <data name="&gt;&gt;GameMenuSetPeriod.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;GameMenuSwitchPossession.Name" xml:space="preserve">
+    <value>GameMenuSwitchPossession</value>
+  </data>
+  <data name="&gt;&gt;GameMenuSwitchPossession.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TeamsMenu.Name" xml:space="preserve">
+    <value>TeamsMenu</value>
+  </data>
+  <data name="&gt;&gt;TeamsMenu.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TeamsMenuHome.Name" xml:space="preserve">
+    <value>TeamsMenuHome</value>
+  </data>
+  <data name="&gt;&gt;TeamsMenuHome.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TeamsMenuHomeChangeName.Name" xml:space="preserve">
+    <value>TeamsMenuHomeChangeName</value>
+  </data>
+  <data name="&gt;&gt;TeamsMenuHomeChangeName.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TeamsMenuHomeSetFouls.Name" xml:space="preserve">
+    <value>TeamsMenuHomeSetFouls</value>
+  </data>
+  <data name="&gt;&gt;TeamsMenuHomeSetFouls.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TeamsMenuAway.Name" xml:space="preserve">
+    <value>TeamsMenuAway</value>
+  </data>
+  <data name="&gt;&gt;TeamsMenuAway.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TeamsMenuAwayChangeName.Name" xml:space="preserve">
+    <value>TeamsMenuAwayChangeName</value>
+  </data>
+  <data name="&gt;&gt;TeamsMenuAwayChangeName.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TeamsMenuAwaySetFouls.Name" xml:space="preserve">
+    <value>TeamsMenuAwaySetFouls</value>
+  </data>
+  <data name="&gt;&gt;TeamsMenuAwaySetFouls.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;SetBonusFoulThresholdMenuButton.Name" xml:space="preserve">
+    <value>SetBonusFoulThresholdMenuButton</value>
+  </data>
+  <data name="&gt;&gt;SetBonusFoulThresholdMenuButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;MainClockMenu.Name" xml:space="preserve">
+    <value>MainClockMenu</value>
+  </data>
+  <data name="&gt;&gt;MainClockMenu.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;MainClockMenuSetTime.Name" xml:space="preserve">
+    <value>MainClockMenuSetTime</value>
+  </data>
+  <data name="&gt;&gt;MainClockMenuSetTime.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;MainClockMenuSetDefaultTime.Name" xml:space="preserve">
+    <value>MainClockMenuSetDefaultTime</value>
+  </data>
+  <data name="&gt;&gt;MainClockMenuSetDefaultTime.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ShotClockMenu.Name" xml:space="preserve">
+    <value>ShotClockMenu</value>
+  </data>
+  <data name="&gt;&gt;ShotClockMenu.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ShotClockMenuSetTime.Name" xml:space="preserve">
+    <value>ShotClockMenuSetTime</value>
+  </data>
+  <data name="&gt;&gt;ShotClockMenuSetTime.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ShotClockMenuSetDefaultTime.Name" xml:space="preserve">
+    <value>ShotClockMenuSetDefaultTime</value>
+  </data>
+  <data name="&gt;&gt;ShotClockMenuSetDefaultTime.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ShotClockMenuToggleShotClock.Name" xml:space="preserve">
+    <value>ShotClockMenuToggleShotClock</value>
+  </data>
+  <data name="&gt;&gt;ShotClockMenuToggleShotClock.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>ControlPanel</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
 </root>
